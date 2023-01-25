@@ -1,0 +1,15 @@
+/Users/andrey/Desktop/Program/Seminar3Task3/bin/Debug/net7.0/Seminar3Task3
+/Users/andrey/Desktop/Program/Seminar3Task3/bin/Debug/net7.0/Seminar3Task3.deps.json
+/Users/andrey/Desktop/Program/Seminar3Task3/bin/Debug/net7.0/Seminar3Task3.runtimeconfig.json
+/Users/andrey/Desktop/Program/Seminar3Task3/bin/Debug/net7.0/Seminar3Task3.dll
+/Users/andrey/Desktop/Program/Seminar3Task3/bin/Debug/net7.0/Seminar3Task3.pdb
+/Users/andrey/Desktop/Program/Seminar3Task3/obj/Debug/net7.0/Seminar3Task3.csproj.AssemblyReference.cache
+/Users/andrey/Desktop/Program/Seminar3Task3/obj/Debug/net7.0/Seminar3Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrey/Desktop/Program/Seminar3Task3/obj/Debug/net7.0/Seminar3Task3.AssemblyInfoInputs.cache
+/Users/andrey/Desktop/Program/Seminar3Task3/obj/Debug/net7.0/Seminar3Task3.AssemblyInfo.cs
+/Users/andrey/Desktop/Program/Seminar3Task3/obj/Debug/net7.0/Seminar3Task3.csproj.CoreCompileInputs.cache
+/Users/andrey/Desktop/Program/Seminar3Task3/obj/Debug/net7.0/Seminar3Task3.dll
+/Users/andrey/Desktop/Program/Seminar3Task3/obj/Debug/net7.0/refint/Seminar3Task3.dll
+/Users/andrey/Desktop/Program/Seminar3Task3/obj/Debug/net7.0/Seminar3Task3.pdb
+/Users/andrey/Desktop/Program/Seminar3Task3/obj/Debug/net7.0/Seminar3Task3.genruntimeconfig.cache
+/Users/andrey/Desktop/Program/Seminar3Task3/obj/Debug/net7.0/ref/Seminar3Task3.dll
