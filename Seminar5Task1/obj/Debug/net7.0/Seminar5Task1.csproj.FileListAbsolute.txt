@@ -1,0 +1,15 @@
+/Users/andrey/Desktop/Program/Seminar5Task1/bin/Debug/net7.0/Seminar5Task1
+/Users/andrey/Desktop/Program/Seminar5Task1/bin/Debug/net7.0/Seminar5Task1.deps.json
+/Users/andrey/Desktop/Program/Seminar5Task1/bin/Debug/net7.0/Seminar5Task1.runtimeconfig.json
+/Users/andrey/Desktop/Program/Seminar5Task1/bin/Debug/net7.0/Seminar5Task1.dll
+/Users/andrey/Desktop/Program/Seminar5Task1/bin/Debug/net7.0/Seminar5Task1.pdb
+/Users/andrey/Desktop/Program/Seminar5Task1/obj/Debug/net7.0/Seminar5Task1.csproj.AssemblyReference.cache
+/Users/andrey/Desktop/Program/Seminar5Task1/obj/Debug/net7.0/Seminar5Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrey/Desktop/Program/Seminar5Task1/obj/Debug/net7.0/Seminar5Task1.AssemblyInfoInputs.cache
+/Users/andrey/Desktop/Program/Seminar5Task1/obj/Debug/net7.0/Seminar5Task1.AssemblyInfo.cs
+/Users/andrey/Desktop/Program/Seminar5Task1/obj/Debug/net7.0/Seminar5Task1.csproj.CoreCompileInputs.cache
+/Users/andrey/Desktop/Program/Seminar5Task1/obj/Debug/net7.0/Seminar5Task1.dll
+/Users/andrey/Desktop/Program/Seminar5Task1/obj/Debug/net7.0/refint/Seminar5Task1.dll
+/Users/andrey/Desktop/Program/Seminar5Task1/obj/Debug/net7.0/Seminar5Task1.pdb
+/Users/andrey/Desktop/Program/Seminar5Task1/obj/Debug/net7.0/Seminar5Task1.genruntimeconfig.cache
+/Users/andrey/Desktop/Program/Seminar5Task1/obj/Debug/net7.0/ref/Seminar5Task1.dll
