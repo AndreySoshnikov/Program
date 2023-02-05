@@ -1,0 +1,15 @@
+/Users/andrey/Desktop/Program/Seminar6Task2/bin/Debug/net7.0/Seminar6Task2
+/Users/andrey/Desktop/Program/Seminar6Task2/bin/Debug/net7.0/Seminar6Task2.deps.json
+/Users/andrey/Desktop/Program/Seminar6Task2/bin/Debug/net7.0/Seminar6Task2.runtimeconfig.json
+/Users/andrey/Desktop/Program/Seminar6Task2/bin/Debug/net7.0/Seminar6Task2.dll
+/Users/andrey/Desktop/Program/Seminar6Task2/bin/Debug/net7.0/Seminar6Task2.pdb
+/Users/andrey/Desktop/Program/Seminar6Task2/obj/Debug/net7.0/Seminar6Task2.csproj.AssemblyReference.cache
+/Users/andrey/Desktop/Program/Seminar6Task2/obj/Debug/net7.0/Seminar6Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrey/Desktop/Program/Seminar6Task2/obj/Debug/net7.0/Seminar6Task2.AssemblyInfoInputs.cache
+/Users/andrey/Desktop/Program/Seminar6Task2/obj/Debug/net7.0/Seminar6Task2.AssemblyInfo.cs
+/Users/andrey/Desktop/Program/Seminar6Task2/obj/Debug/net7.0/Seminar6Task2.csproj.CoreCompileInputs.cache
+/Users/andrey/Desktop/Program/Seminar6Task2/obj/Debug/net7.0/Seminar6Task2.dll
+/Users/andrey/Desktop/Program/Seminar6Task2/obj/Debug/net7.0/refint/Seminar6Task2.dll
+/Users/andrey/Desktop/Program/Seminar6Task2/obj/Debug/net7.0/Seminar6Task2.pdb
+/Users/andrey/Desktop/Program/Seminar6Task2/obj/Debug/net7.0/Seminar6Task2.genruntimeconfig.cache
+/Users/andrey/Desktop/Program/Seminar6Task2/obj/Debug/net7.0/ref/Seminar6Task2.dll
