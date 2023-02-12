@@ -25,7 +25,7 @@ for (int i = 0; i < numbers.GetLength(0); i++)
     {
         for (int z = 0; z < numbers.GetLength(1) - 1; z++)
         {
-            if (numbers[i, z] < numbers[i, z + 1]) //для изменения сортировки поменять знак < на противоположный
+            if (numbers[i, z] < numbers[i, z + 1]) //для изменения сортировки на противоположный
             {
                 int temp = 0;
                 temp = numbers[i, z];
